@@ -61,5 +61,6 @@ El modelo propuesto es un sistema de recomendación de películas basado en la s
 11) Se devuelve una lista con los títulos de las películas recomendadas.
 
 Deployment
-Para el despliegue de la API, se utilizó la plataforma Render. Los datos están listos para ser consumidos y consultados a través del siguiente enlace:
-Para el despliegue de la API, se utilizó la plataforma Render. Los datos están listos para ser consumidos y consultados a través del siguiente enlace:
+Para el despliegue de la API, se utilizó la plataforma Render. Los datos están listos para ser consumidos y consultados a través del siguiente enlace:https://henry-1-peliculas-recomendadas.onrender.com
+
+Video: https://share.vidyard.com/watch/ksL4bW88XXwNdJJjDE8bZp?
